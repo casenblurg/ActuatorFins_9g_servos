@@ -1,3 +1,18 @@
+<p align="center">
+  <img src="https://github.com/casenblurg/ActuatorFins_9g_servos/raw/main/Main/Images/FullAssemblyPicture.png" width="600"/><br>
+  <img src="https://github.com/casenblurg/ActuatorFins_9g_servos/raw/main/Main/Images/ServosView.png" width="600"/>
+</p>
+
+
+
+
+
+
+
+
+
+
+
 
 <p align="center">
   <img src="https://m.media-amazon.com/images/I/61KDCNaWADL._AC_SX679_.jpg" width="900"/>
